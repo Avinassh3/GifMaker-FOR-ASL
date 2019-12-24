@@ -1,5 +1,5 @@
 # GifMaker-FOR-ASL
-Given a string it generates a gif for that word
+Given a string it generates a GIF
 
 Input Prompt
 Enter word for which you want to generate Gif : Avinassh Bharadhwaj <br />
